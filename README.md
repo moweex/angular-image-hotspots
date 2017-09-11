@@ -1,7 +1,7 @@
 Angular Image Hotspots
 ===================
 ----------
-A directive that create responsive image with overlaying hotspots. You can specify, hotspot position, title, href, and radius. You can specify the position in pixel values or percentage values relative to the image dimensions by using.
+A directive that creates responsive image with overlaying hotspots. You can specify, hotspot position, title, href, and radius. You can specify the position in pixel values or percentage values relative to the image dimensions by using.
 
 Directive Usage
 ----------
